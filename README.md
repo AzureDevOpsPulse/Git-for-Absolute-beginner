@@ -15,7 +15,7 @@
 - Module-12: Debugging and Troubleshooting
 - Module-13: Tips and Best Practices
 
- ----------------++++++-----------------
+  ----------------++++++-----------------
  # Module-01: What it git and its Benefits
 Git is an open-source distributed version control system that allows developers to track changes in their codebase, collaborate with others, and manage software development projects effectively. It provides features such as branching, merging, and version history tracking, enabling developers to work on different features or fixes simultaneously while maintaining a complete history of their project's development. 
 # Key benefits include:
